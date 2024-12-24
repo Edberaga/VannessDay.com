@@ -361,6 +361,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	margin-bottom:10px;
 }
 .prt_about_edulearn_wrapper{
+    padding-top: 50px;
 	display:inline-block;
 	width:100%;
 }
